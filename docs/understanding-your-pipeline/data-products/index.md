@@ -1,5 +1,5 @@
 ---
-title: "Data Products introduction"
+title: "Data Products introduction 🆕"
 sidebar_position: 7
 description: "Snowplow's data products enable organizations to easily generate AI and BI-ready data that is reliable, clear, compliant, accurate, and predictable"
 ---
@@ -54,17 +54,17 @@ With a data product, you can:
 * Provide implementation details to developers implementing tracking (see section on Snowtype for further details)
 * Provide documentation around the semantics of the data that you are creating, to enable analysts, data scientists, analytics engineers with data discoverability
 
-**Subscribers;**
+**Subscribers;** these describe people who are interested in this Data product or who are actively using the data in other ways.
 
 **Benefits:**
 
-* TODO
+* Provide notifications for changes in a Data product.
 
 **Change history**; a complete audit log of the changes that have been made to the data product, including changes to existing data and new data that has been added over time.
 
 **Benefits:**
 
-* TODO
+* Enhances accountability and transparency by providing a clear audit trail of all data modifications, fostering confidence in data integrity
 
 ## How data products help with governance, data quality and data discoverability
 
@@ -80,4 +80,4 @@ By adding screenshots, and descriptions to the event specification, you are also
 
 A data structure can be used across event specifications, and across data products. In doing so, you can ensure you consistently track business critical events and entities (for example, your ‘product’ entity) across your organisation. Having the ability to use centralised event and entity schemas in this way, means that you are able to better govern the structure of the data across an organisation whilst also empowering teams to manage their own specific implementation of events via data products. 
 
-To understand how to get started with data products, see [TODO insert link here] for further details.
+To understand how to get started with data products, see [Defining the data to collect with Data Products](/docs/understanding-tracking-design/defining-the-data-to-collect-with-data-poducts/) for further details.
