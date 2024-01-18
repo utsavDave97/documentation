@@ -39,8 +39,6 @@ With a data product, you can:
 
 ## Key elements of a data product
 
-![Elements of a data product diagram](images/data-product-elements.png)
-
 **An owner**; data products are typically split by domain with each data product having an explicit owner that is responsible for the maintenance and evolution of that data.
 
 **Benefits:**

@@ -15,10 +15,6 @@ With data products, you can:
 
 ## Elements of a data product
 
-![Elements of a data product](images/data-product-elements.png)
-
-**Data product**
-
 - **Name;** a descriptive name for the data product
 - **Description;** a description of the data the data product captures
 - **Owner;** the individual responsible for the data product 
