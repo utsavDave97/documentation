@@ -12,7 +12,7 @@ sidebar_custom_props:
 
 ## Creating and editing a new Data Product using Console
 
-To create a new Data Product, navigate to the 'Data Products' option in the left main menu and click the 'Create Data Product' button. 
+To create a new Data Product, navigate to the 'Data products' option in the left main menu and click the 'Create data product' button. 
 
 ![Create data product](images/image-1.png)
 
@@ -32,9 +32,9 @@ When clicking on a 'Event specification' row, a page will allow you to enter add
 - **Event triggers**: specify the places and circumstances under which the event is triggered
 - **Implementation instructions**: specify instructions about how each schema property should be set for this scenario
 
-It is possible to have an overview of a Data Product by selecting the name in the breadcrumb navigation or by selecting in the data product listing always visible in the left menu.
+It is possible to have an overview of a data product by selecting the name in the breadcrumb navigation or by selecting in the data product listing always visible in the left menu.
 
-In the image below you can see an example of Data Product, over than provide an overview about all the event specifications allow you to reach three important functionalities:
+In the image below you can see an example of data product, over than provide an overview about all the event specifications allow you to reach three important functionalities:
 
 - **Share**: allow other members of your organization to access the data product
 - **Subscribe**: allow other members to being notified of any changes in the data product
@@ -44,4 +44,4 @@ In the image below you can see an example of Data Product, over than provide an 
 
 ![Event specification details](images/image-3.png)
 
-If you need to edit a data product at any time, simply select it from the product overview rechable from main menu.
+If you need to edit a data product at any time, simply select it from the data products listing accessible from the main menu.
