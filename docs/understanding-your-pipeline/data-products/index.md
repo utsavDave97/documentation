@@ -66,8 +66,6 @@ With a data product, you can:
 
 ## How data products help with governance, data quality and data discoverability
 
-![Data products and governance](images/data-product-governance.png)
-
 The **data structures** that you attach to your event specification describe the [structure of the data](/docs/understanding-your-pipeline/schemas/). They validate that the values of the properties contained within your events and entities are **valid** as they pass through your pipeline.
 
 The **event specification** describes a specific implementation of an event. It is a narrower definition of your event than a data structure - not only do they describe the structure of the data (by attaching the relevant data structure to validate against), they also allow you to define the **right values** for fields when the event gets triggered and the entities that need to be attached.
