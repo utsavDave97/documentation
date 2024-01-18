@@ -1,7 +1,6 @@
 ---
 title: "Defining the data to collect with Data Products"
-date: "2024-01-18"
-sidebar_label: "Data collection with Data Product 🆕"
+sidebar_position: 50
 ---
 
 As described in [Data Products introduction](/docs/understanding-your-pipeline/data-products/), a data product is a logical grouping of the data you collect as an organisation by domain, with an explicit owner. 
@@ -12,7 +11,7 @@ With data products, you can:
 * Make tracking implementation easier
 * Deliver better governance around your data
 * More easily communicate what the data means and how to use it
-* Collaborate more effectively with the various teams involved in delivering value from your dat
+* Collaborate more effectively with the various teams involved in delivering value from your data
 
 ## Elements of a data product
 
@@ -32,3 +31,9 @@ With data products, you can:
     * **Event data structure;** the event data structure that this event will validate against as it is processed by your pipeline
     * **Entities;** the entities that should be attached to this event (i.e. user, product)
     * **Implementation rules;** any specific rules for each property of the event or entities
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+```
