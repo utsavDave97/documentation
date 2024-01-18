@@ -1,5 +1,5 @@
 ---
-title: "Defining the data to collect with Data Products 🆕"
+title: "🆕 Defining the data to collect with Data Products"
 sidebar_position: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Data Products"
+title: "🆕 Data Products"
 date: "2024-01-18"
 sidebar_position: 1
 description: "TODO"
