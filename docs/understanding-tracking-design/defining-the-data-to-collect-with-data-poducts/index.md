@@ -4,7 +4,7 @@ date: "2024-01-18"
 sidebar_label: "Data collection with Data Product 🆕"
 ---
 
-As described in ‘An introduction to data products’, a data product is a logical grouping of the data you collect as an organisation by domain, with an explicit owner. 
+As described in [Data Products introduction](/docs/understanding-your-pipeline/data-products/), a data product is a logical grouping of the data you collect as an organisation by domain, with an explicit owner. 
 
 With data products, you can:
 
