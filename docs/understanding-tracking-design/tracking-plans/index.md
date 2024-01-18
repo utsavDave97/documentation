@@ -54,5 +54,5 @@ The event validation part allows you to set the instructions for tracking implem
 The [Entities](/docs/understanding-your-pipeline/entities/index.md) part allows you to declare which entities should be tracked with the event. You can also define whether the entity should be mandatory or optional, or whether more than one instance should be tracked with this event.
 
 :::info
-Snowplow BDP provides both a UI and an API to manage your Tracking Scenarios. For information about managing Tracking Scenarios see [How to manage Tracking Scenario](/docs/understanding-tracking-design/managing-your-tracking-scenarios/index.md).
+Snowplow BDP provides both a UI and an API to manage your Data products. For information about managing Data products see [Defining the data to collect with Data Products](docs/understanding-tracking-design/defining-the-data-to-collect-with-data-products/)
 :::
