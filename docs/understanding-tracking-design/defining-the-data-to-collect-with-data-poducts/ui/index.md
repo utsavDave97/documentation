@@ -10,7 +10,7 @@ sidebar_custom_props:
 
 ---
 
-## Creating a new Data Product using Console
+## Creating and editing a new Data Product using Console
 
 To create a new Data Product, navigate to the 'Data Products' option in the left main menu and click the 'Create Data Product' button. 
 
@@ -32,7 +32,7 @@ When clicking on a 'Event specification' row, a page will allow you to enter add
 - **Event triggers**: specify the places and circumstances under which the event is triggered
 - **Implementation instructions**: specify instructions about how each schema property should be set for this scenario
 
-It is possible to have an overview of a Data Product by selecting the name in the breadcrumb navigation or by selecting in the data product listing.
+It is possible to have an overview of a Data Product by selecting the name in the breadcrumb navigation or by selecting in the data product listing always visible in the left menu.
 
 In the image below you can see an example of Data Product, over than provide an overview about all the event specifications allow you to reach three important functionalities:
 
@@ -44,8 +44,4 @@ In the image below you can see an example of Data Product, over than provide an 
 
 ![Event specification details](images/image-3.png)
 
-## Editing a Data Product using Console
-
-To create a new Data Product, navigate to the Data Products option in the menu, and click the ‘Create your first Data Product’ 
-
-![](images/image-3.png)
+If you need to edit a data product at any time, simply select it from the product overview rechable from main menu.
