@@ -13,6 +13,6 @@
     <td>Optional. A map of key/value strings corresponding to Hudi's configuration options for writing into a table. The default options configure `load_tstamp` as the table's partition field.</td>
 </tr>
 <tr>
-    <td><code>output.good.hudiTableOptions.*</code></td>
+    <td><code>output.good.hudiTableProperties.*</code></td>
     <td>Optional. A map of key/value strings corresponding to Hudi's configuration options for creating a table. The default options configure `load_tstamp` as the table's partition field.</td>
 </tr>
